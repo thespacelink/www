@@ -1,4 +1,6 @@
-# The Space Link
+# Коллекция космических ссылок
+
+## Собственные
 * [twitter](https://www.twitter.com/ilyakharlamov)
 * [telegram](https://t.me/prostinas)
 * [stat - статистика по пускам](https://stat.thespace.link)
